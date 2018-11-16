@@ -1,3 +1,8 @@
 main_1.py = 1 objective function(original v_i)
 main_2.py = same as main_1.py
 main_3.py = 3 objective maximisation and choosing the min of those
+
+main_1-modified.py = 1 objective function, gen-algo run only once, objective function>0 constraint added
+main_3-modified.py = 3 objective maximisation and choosing the min of those, gen-algo run only once, objective function>0 constraint added
+
+sem_2-main_1.py  = inefficent gen algo, 1 objective function
