@@ -5,4 +5,6 @@ main_3.py = 3 objective maximisation and choosing the min of those
 main_1-modified.py = 1 objective function, gen-algo run only once, objective function>0 constraint added
 main_3-modified.py = 3 objective maximisation and choosing the min of those, gen-algo run only once, objective function>0 constraint added
 
-sem_2-main_1.py  = inefficent gen algo, 1 objective function
+main_3-modified-modified.py = 3 objective maximisation and choosing the min of those, gen-algo run only each time, objective function>0 constraint added, Only run in Python3.6. results are determinitic =FINAL CODE
+
+sem_2-main_1.py  = inefficent gen algo, 1 objective function =FINAL CODE
